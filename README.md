@@ -139,15 +139,15 @@ The project was selected among the Top 100 industry-oriented projects in India.
 
 ### Completed Robot
 
-![SpruceBot](images/sprucebot-assembled.jpg)
+![SpruceBot](/images/sprucebot-assembled.jpeg)
 
 ### Hardware and Electronics
 
-![SpruceBot Hardware](images/sprucebot-chassis.jpg)
+![SpruceBot Hardware](SpruceBot-Automatic-Dust-Collecting-Robot/images/sprucebot-chassis.jpg)
 
 ### Circuit
 
-![SpruceBot Circuit](hardware/sprucebot-circuit.png)
+![SpruceBot Circuit](SpruceBot-Automatic-Dust-Collecting-Robot/hardware/sprucebot-circuit.png)
 
 ## Future Improvements
 
