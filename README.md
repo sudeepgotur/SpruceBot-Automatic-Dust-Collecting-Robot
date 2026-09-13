@@ -143,11 +143,11 @@ The project was selected among the Top 100 industry-oriented projects in India.
 
 ### Hardware and Electronics
 
-![SpruceBot Hardware](/images/sprucebot-chassis.jpg)
+![SpruceBot Hardware](/images/sprucebot-chassis.jpeg)
 
 ### Circuit
 
-![SpruceBot Circuit](/hardware/sprucebot-circuit.png)
+![SpruceBot Circuit](/hardware/sprucebot-circuit.jpeg)
 
 ## Future Improvements
 
