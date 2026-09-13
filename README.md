@@ -33,7 +33,9 @@ The system combines an Arduino Mega, ultrasonic sensors, IR sensing, DC geared m
 
 ```text
           ┌─────────────────┐
-          │   HC-SR04 Left  │
+          │   HC-SR04 Left  |
+          │   HC-SR04 Front |
+          |   HC-SR04 Right |
           └────────┬────────┘
                    │
           ┌────────▼────────┐
@@ -50,10 +52,6 @@ The system combines an Arduino Mega, ultrasonic sensors, IR sensing, DC geared m
        ┌────▼─────┐
        │ DC Motors│
        └──────────┘
-
-       HC-SR04 Front
-       HC-SR04 Right
-
               +
               │
               ▼
