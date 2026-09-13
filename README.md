@@ -15,7 +15,7 @@ The system combines an Arduino Mega, ultrasonic sensors, IR sensing, DC geared m
 - IR-based detection
 - DC motor control
 - Dust collection using a fan-based mechanism
-
+  
 ## Hardware
 
 | Component | Purpose |
